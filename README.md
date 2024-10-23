@@ -1,5 +1,3 @@
-## Thainá Souza
-
 I'm a indie full-stack developer passionate about creating clean, efficient code that solves real-world problems. With a strong focus on clarity, simplicity, and execution, I take projects from concept to completion, applying thoughtful design and innovative solutions. My journey in tech is driven by curiosity and a commitment to lifelong learning.
 
 ### Social Media
